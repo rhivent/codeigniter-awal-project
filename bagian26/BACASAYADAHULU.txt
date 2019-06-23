@@ -1,0 +1,13 @@
+1. 	Buka File Config.php
+	sesuaikan variable $url dengan localhost Anda dan folder latihanbab10 
+	misalnya : 
+	$url = "http://localhost/latihanbab10" ;
+	
+2.	Buka PHP MyAdmin kemudian klik tab import dan import file latihan10.sql 
+	yang ada dalam folder latihanbab10 
+
+3. 	Halaman admin : 
+	http://localhost/latihanbab10/admin.php
+	
+	username : admin
+	password : admin
